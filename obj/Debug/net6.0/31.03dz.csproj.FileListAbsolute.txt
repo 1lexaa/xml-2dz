@@ -1,0 +1,15 @@
+/Users/1lexaa/Documents/учеба/31.03dz/bin/Debug/net6.0/31.03dz
+/Users/1lexaa/Documents/учеба/31.03dz/bin/Debug/net6.0/31.03dz.deps.json
+/Users/1lexaa/Documents/учеба/31.03dz/bin/Debug/net6.0/31.03dz.runtimeconfig.json
+/Users/1lexaa/Documents/учеба/31.03dz/bin/Debug/net6.0/31.03dz.dll
+/Users/1lexaa/Documents/учеба/31.03dz/bin/Debug/net6.0/31.03dz.pdb
+/Users/1lexaa/Documents/учеба/31.03dz/obj/Debug/net6.0/31.03dz.csproj.AssemblyReference.cache
+/Users/1lexaa/Documents/учеба/31.03dz/obj/Debug/net6.0/31.03dz.GeneratedMSBuildEditorConfig.editorconfig
+/Users/1lexaa/Documents/учеба/31.03dz/obj/Debug/net6.0/31.03dz.AssemblyInfoInputs.cache
+/Users/1lexaa/Documents/учеба/31.03dz/obj/Debug/net6.0/31.03dz.AssemblyInfo.cs
+/Users/1lexaa/Documents/учеба/31.03dz/obj/Debug/net6.0/31.03dz.csproj.CoreCompileInputs.cache
+/Users/1lexaa/Documents/учеба/31.03dz/obj/Debug/net6.0/31.03dz.dll
+/Users/1lexaa/Documents/учеба/31.03dz/obj/Debug/net6.0/refint/31.03dz.dll
+/Users/1lexaa/Documents/учеба/31.03dz/obj/Debug/net6.0/31.03dz.pdb
+/Users/1lexaa/Documents/учеба/31.03dz/obj/Debug/net6.0/31.03dz.genruntimeconfig.cache
+/Users/1lexaa/Documents/учеба/31.03dz/obj/Debug/net6.0/ref/31.03dz.dll
